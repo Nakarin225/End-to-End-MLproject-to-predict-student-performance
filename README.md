@@ -1,6 +1,6 @@
 # End to End Machine Learning project
  An end-to-end machine learning project typically involves several stages: data collection and preprocessing, model training and evaluation, deployment, and building a web application for prediction. I'll explain the steps involved in creating an end-to-end machine learning project to predict the scores of students using Flask and AWS.
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.collegiateparent.com%2Fwp-content%2Fuploads%2F2022%2F08%2FAdobeStock_429176281.jpg&tbnid=vb1bFPYNIcQwYM&vet=12ahUKEwj_gZaTzZiAAxVE_DgGHQ_XBZgQMygIegUIARDaAQ..i&imgrefurl=https%3A%2F%2Fwww.collegiateparent.com%2Facademics%2Fstudent-study-time-matters%2F&docid=TZuGs0OCcrb7HM&w=1600&h=1068&q=student%20picture&ved=2ahUKEwj_gZaTzZiAAxVE_DgGHQ_XBZgQMygIegUIARDaAQ
+![IMAGE_DESCRIPTION](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.collegiateparent.com%2Fwp-content%2Fuploads%2F2022%2F08%2FAdobeStock_429176281.jpg&tbnid=vb1bFPYNIcQwYM&vet=12ahUKEwj_gZaTzZiAAxVE_DgGHQ_XBZgQMygIegUIARDaAQ..i&imgrefurl=https%3A%2F%2Fwww.collegiateparent.com%2Facademics%2Fstudent-study-time-matters%2F&docid=TZuGs0OCcrb7HM&w=1600&h=1068&q=student%20picture&ved=2ahUKEwj_gZaTzZiAAxVE_DgGHQ_XBZgQMygIegUIARDaAQ)
 1.Data Collection and Preprocessing:
 
 Gather a dataset containing information about students, such as previous exam scores, study time, attendance, etc.
